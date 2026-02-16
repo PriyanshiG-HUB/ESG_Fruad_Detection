@@ -1,0 +1,9 @@
+{
+  "company": "Ford Motor Company",
+  "reported_co2": 120000,
+  "fuel_usage": {
+    "natural_gas": 1800,
+    "diesel": 1200,
+    "coal": 600
+  }
+}

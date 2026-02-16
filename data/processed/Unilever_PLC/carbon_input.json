@@ -1,0 +1,9 @@
+{
+  "company": "Unilever PLC",
+  "reported_co2": 95000,
+  "fuel_usage": {
+    "natural_gas": 1400,
+    "diesel": 800,
+    "coal": 300
+  }
+}
